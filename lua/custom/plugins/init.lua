@@ -21,7 +21,7 @@ return {
   'hrsh7th/vim-vsnip',
 
   -- vimspector
-  'puremourning/vimspector',
+  -- 'puremourning/vimspector',
 
   -- float terminal
   'voldikss/vim-floaterm',
